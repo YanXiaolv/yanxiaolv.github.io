@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    padding: 50px;
+    background-color: lightseagreen;
+    color: antiquewhite;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+div h2 {
+    padding: 20px;
+    background-color: rgb(129, 138, 52);
+    color: rgb(59, 243, 52);
+    text-align: center;
+}
+
+div p {
+    text-align: center;
+    font-size: 25px;
+}
+
+div {
+    text-align: center;
+}
+
+div a {
+    font-size: 25px;
+    text-decoration: none;
+    color: coral;
+}
+
+div a:hover {
+    color: red;
+}
+
+div {
+    padding: 20px;
+    background-color: bisque;
+}
+
+#jingDian {
+    font-size: 23px;
+}
+
+.biSai .end {
+    color: red;
+}
+
+.biSai .notStart {
+    color: green;
+}
+
+.biSai .undefined {
+    color: gray;
+}
+
+ul li {
+    font-size: 25px;
+}
+
+.yeWei {
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
+
+.yeWei p {
+    font-size: 15px;
+}
